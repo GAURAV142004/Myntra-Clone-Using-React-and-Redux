@@ -1,8 +1,22 @@
-# React + Vite
+# Myntra Clone — Legacy React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> 🗃️ **Status: Legacy learning project**
+>
+> A historical React/Redux e-commerce clone built while learning component architecture, state management and frontend application structure.
 
-Currently, two official plugins are available:
+## What it demonstrates
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React component-based UI development
+- Redux-based application state
+- Product/catalog-style interface
+- Client-side application structure
+
+## Portfolio context
+
+This repository is intentionally preserved as part of my earlier frontend development journey. It is **not actively maintained** and is no longer representative of my current engineering focus.
+
+My current focus is **software engineering, enterprise automation, backend/API development, AI systems and cloud technologies**.
+
+## Current status
+
+🗃️ Legacy learning project — no active development planned.
