@@ -1,55 +1,41 @@
+# Myntra Clone — React + Redux
 
-# Myntra Clone Using React and Redux
+> 🗃️ **Status: Archived learning project**
+>
+> A frontend recreation built while learning React application architecture, Redux state management and e-commerce UI patterns. It is preserved for portfolio history and is **not actively maintained**.
 
-This project is a clone of the popular e-commerce website Myntra, built using React and Redux. The aim is to replicate some of the core functionalities of Myntra, including product listings and a shopping cart.
+## What it demonstrates
 
-## Table of Contents
+- Product listing and product details
+- Shopping cart state management
+- React Router navigation
+- Axios-based data requests
+- Responsive UI
+- Redux-based application state
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
+## Stack
 
+`React` · `Redux` · `React Router` · `Axios` · `Bootstrap` · `Vite`
 
-## Features
+## Run locally
 
-- Product listing 
-- Product details page
-- Shopping cart functionality
-- Responsive design
+```bash
+git clone https://github.com/GAURAV142004/Myntra-Clone-Using-React-and-Redux.git
+cd Myntra-Clone-Using-React-and-Redux
+npm install
+npm run server
+```
 
-## Installation
+In another terminal:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/GAURAV142004/Myntra-Clone-Using-React-and-Redux.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Myntra-Clone-Using-React-and-Redux
-   ```
-3. Install dependencies for the data server:
-   ```bash
-   npm install
-   ```
+```bash
+npm run dev
+```
 
-## Usage
+## Portfolio context
 
-1. Start the data server:
-   ```bash
-   npm run server
-   ```
-2. In a new terminal, start the development server using Vite:
-   ```bash
-   npm run dev
-   ```
-3. Open your browser and navigate to `http://localhost:3000`.
+This repository represents an earlier phase of my frontend development journey. My current work is focused on **software engineering, enterprise automation, backend/API development, AI systems and cloud technologies**.
 
-## Technologies Used
+---
 
-- **React**: A JavaScript library for building user interfaces.
-- **Redux**: A predictable state container for JavaScript apps.
-- **React Router**: For routing in React applications.
-- **Axios**: For making HTTP requests.
-- **Bootstrap**: For responsive design and styling.
-- **Vite**: A build tool that provides a faster and leaner development experience for modern web projects.
+**Current status:** 🗃️ Legacy / no active development
